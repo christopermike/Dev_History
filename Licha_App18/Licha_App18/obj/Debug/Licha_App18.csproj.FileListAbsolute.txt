@@ -1,0 +1,6 @@
+W:\PVA\Licha_App18\Licha_App18\bin\Debug\Licha_App18.exe.config
+W:\PVA\Licha_App18\Licha_App18\obj\Debug\Licha_App18.csprojResolveAssemblyReference.cache
+W:\PVA\Licha_App18\Licha_App18\bin\Debug\Licha_App18.exe
+W:\PVA\Licha_App18\Licha_App18\bin\Debug\Licha_App18.pdb
+W:\PVA\Licha_App18\Licha_App18\obj\Debug\Licha_App18.exe
+W:\PVA\Licha_App18\Licha_App18\obj\Debug\Licha_App18.pdb

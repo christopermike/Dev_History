@@ -1,0 +1,5 @@
+W:\PVA\Vyjimky_1\Vyjimky_1\bin\Debug\Vyjimky_1.exe.config
+W:\PVA\Vyjimky_1\Vyjimky_1\bin\Debug\Vyjimky_1.exe
+W:\PVA\Vyjimky_1\Vyjimky_1\bin\Debug\Vyjimky_1.pdb
+W:\PVA\Vyjimky_1\Vyjimky_1\obj\Debug\Vyjimky_1.exe
+W:\PVA\Vyjimky_1\Vyjimky_1\obj\Debug\Vyjimky_1.pdb

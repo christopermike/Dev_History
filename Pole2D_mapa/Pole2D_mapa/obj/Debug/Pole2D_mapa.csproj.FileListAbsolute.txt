@@ -1,0 +1,6 @@
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\bin\Debug\Pole2D_mapa.exe.config
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\bin\Debug\Pole2D_mapa.exe
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\bin\Debug\Pole2D_mapa.pdb
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\obj\Debug\Pole2D_mapa.csprojResolveAssemblyReference.cache
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\obj\Debug\Pole2D_mapa.exe
+W:\PVA\Programování\Pole2D_mapa\Pole2D_mapa\obj\Debug\Pole2D_mapa.pdb
